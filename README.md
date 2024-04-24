@@ -1,4 +1,4 @@
-# 由於之前部署到Replit了，所以這邊直接附上連結
+# 由於之前部署到Replit了，所以這邊直接附上連結和影片
 
 這是和旗標業師共同開發的專案，串接Line Bot和OpenAI API，這些專案主要涉及Python、SQL、視覺化工具等技術，並使我成為相關書籍的作者。
 
@@ -7,3 +7,4 @@
 https://replit.com/@flagtech/amstklinebot#main.py
 
 ![4](https://github.com/ChenYuFan1202/US_Stock_Project/assets/166285149/9767b2f4-eb7c-4e19-a8b9-a6295b8bb8fb)
+https://youtu.be/UghLs68CkUk?feature=shared
