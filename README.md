@@ -5,6 +5,7 @@
 這些寶貴的經驗不僅豐富了我的學習經歷，也為我未來的職業發展打下了堅實的基礎。
 
 https://replit.com/@flagtech/amstklinebot#main.py
+
 https://youtu.be/UghLs68CkUk?feature=shared
 ![4](https://github.com/ChenYuFan1202/US_Stock_Project/assets/166285149/9767b2f4-eb7c-4e19-a8b9-a6295b8bb8fb)
 
